@@ -28,7 +28,7 @@ let handler = async (m, { conn, text, usedPrefix, command, args, participants, i
   else global.db.data.chats[res].expired = now + nDays
   if (e.length) await m.reply(`✅ Me uni correctamente al grupo \n\n≡ Info del grupo \n\n *Nombre :* ${await conn.getName(res)}\n\nEl bot saldrá automáticamente después de \n\n${msToDate(global.db.data.chats[res].expired - now)}`)
  
- if (e.length) await conn.reply(res, `🏮 Hola shavales
+ if (e.length) await conn.reply(res, `🏮 Hola cholos
 
 @${owbot} es mi creador  si tiene alguna duda
 fui invitado por *${m.name}*`, m, {
