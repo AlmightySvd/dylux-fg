@@ -28,17 +28,17 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-◈ ━━━━━ *DyLux  ┃ ᴮᴼᵀ* ━━━━━ ◈
+ＣｏｎｅｒｏｓＰｏｓ🦎ｔｉｖｅ ⤧ᴮᵒᵗ
  
 👋🏻 _Hola_ *%name*
 🧿 Nivel : *%level* 
 👥 Usuarios : %totalreg
 📈 Tiempo activo : %muptime
 ─────────────
-▢ Crea tu propio bot 
-• https://youtu.be/xFqjKN1Qt80
-▢ Descarga *FGWhatsApp*
-• https://fgmods.xyz
+▢ Respeta las reglas
+• -
+▢ -
+• -
 ─────────────
 %readmore
 Ⓟ = Premium
@@ -152,7 +152,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     let pp = './src/fg_logo.jpg'
      
     conn.sendFile(m.chat, pp, 'menu.jpg', text.trim(), m, null, rpl)
-    /*conn.sendButton(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff', pp, [
+    /*conn.sendButton(m.chat, text.trim(), 'ＣｏｎｅｒｏｓＰｏｓ🦎ｔｉｖｅ ⤧ᴮᵒᵗ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/not.sxrgio', pp, [
       ['ꨄ︎ Apoyar', `${_p}donate`],
       ['⏍ Info', `${_p}botinfo`],
       ['⌬ Grupos', `${_p}gpdylux`]
