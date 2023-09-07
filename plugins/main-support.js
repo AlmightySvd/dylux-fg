@@ -2,38 +2,38 @@
 let handler = async (m, { conn }) => {
 
 m.reply(`
-≡  *DyLuxᴮᴼᵀ ┃ SUPPORT*
+≡  ＣｏｎｅｒｏｓＰｏｓ🦎ｔｉｖｅ ⤧ᴮᵒᵗ
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
 ▢ Grupo *1*
-https://chat.whatsapp.com/HYsBDXQ5M2x5auQPZaYz93
+PRÓXIMAS ALIANZAS
 
 ▢ Grupo *2*
-https://chat.whatsapp.com/CDUqNRu5Kh5KY5uqQI0BKE
+PRÓXIMAS ALIANZAS
 
-▢ Grupo *NSFW* 🔞
-https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH
+▢ 
+PRÓXIMAS ALIANZAS
 
-▢ 𝐌𝐘 - 𝐌𝐚𝐲𝐥𝐮𝐱 | ᴮᴼᵀ⚡
-https://chat.whatsapp.com/CTILZXSriIE3M40anVyPT4
+▢ Grupo *3*
+PRÓXIMAS ALIANZAS
 
-▢ 📲💻ANDROID WORLD🎬🎮
-https://chat.whatsapp.com/Ly4I2LObSvW8VgOnJjofgA
+▢ Grupo *4*
+PRÓXIMAS ALIANZAS
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
 ▢ Todos los Grupos
- https://instabio.cc/fg98ff
+PRÓXIMAMENTE
 
 ▢ *Telegram*
-• https://t.me/fgawgp
+• PRÓXIMAMENTE
  ▢ *PayPal*
-• https://paypal.me/fg98f
+• -
 ▢ *YouTube*
-• https://www.youtube.com/fg98f`)
+• -`)
 
 }
 handler.help = ['support']
 handler.tags = ['main']
-handler.command = ['grupos', 'groupdylux', 'dxgp', 'dygp', 'gpdylux', 'support'] 
+handler.command = ['grupos', 'groupdylux', 'dxgp', 'dygp', 'Sxrgio', 'support'] 
 
 export default handler
