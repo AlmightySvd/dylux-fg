@@ -7,7 +7,7 @@ let m2 = `
 ≡ _Use estos comandos sin el prefijo_
 
 ▢ Si tienes más  audios   
-envíame por t.me/fgsupp_bot el *audio + comando* con en el que responderá
+envíame por el grupo. El *audio + comando* con en el que responderá
 
 ┌─⊷ *AUDIOS* 
 ▢ Bot
